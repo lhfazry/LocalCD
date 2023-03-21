@@ -3,6 +3,7 @@
 #GPUs
 gpus=$1
 
+echo ${gpus}
 #Set paths
 checkpoint_root=/workspace/LocalCD/checkpoints
 vis_root=/workspace/LocalCD/vis
