@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #GPUs
-gpus=0
+gpus=${1}
 
 #Set paths
 checkpoint_root=/workspace/LocalCD/checkpoints
