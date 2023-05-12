@@ -3,7 +3,7 @@
 gpus=0
 checkpoint_root=/workspace/LocalCD/checkpoints
 vis_root=/workspace/LocalCD/vis
-data_name=CDD #DSIFN #LEVIR, DSIFN
+data_name=LEVIR #DSIFN #LEVIR, DSIFN
 
 img_size=256
 batch_size=8
